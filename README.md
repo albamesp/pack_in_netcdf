@@ -52,7 +52,7 @@ std_smb[,i]<-GS_std$z
 }
 ````
 
-#image(G,zlim=c(-0.5,0.5))
+
 
 We use the [raster] (https://cran.r-project.org/web/packages/raster/raster.pdf) package available in R  to create a geospatial dataset and define our projection.
 
